@@ -8,4 +8,8 @@ public class GoodMorningServiceImpl implements HiService {
 	public String sayHi() {
 		return "Good Morning";
 	}
+	
+	public String sayHo() {
+		return "Howdy ho!";
+	}
 }
